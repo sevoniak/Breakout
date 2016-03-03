@@ -1,4 +1,4 @@
-# Breakout
+# WinGDI_Breakout
 My attempt at a Breakout-style game.
 
 ## Description
