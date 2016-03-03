@@ -1,5 +1,5 @@
 # Breakout
-My attempt at a Breakout game.
+My attempt at a Breakout-style game.
 
 ## Description
 This project was built in Visual Studio 2008 for the Windows platform. One of the first games I built, it sparked my interest in game development.
